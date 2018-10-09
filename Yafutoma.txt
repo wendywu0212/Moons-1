@@ -1,0 +1,3 @@
+Scale-armour=1
+for [Mount Fuyi]
+	echo Vorlik blade
